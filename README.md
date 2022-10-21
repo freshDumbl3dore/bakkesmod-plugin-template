@@ -1,0 +1,1 @@
+# bakkesmod-plugin-template
